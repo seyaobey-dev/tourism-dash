@@ -4,7 +4,7 @@ A Plotly Dash app for Dublin City Council. It compares two St Patrick's Day para
 
 ## A note on AI
 
-I paired with Claude Code, an AI coding assistant, to write the code, because Python and Dash are not my usual stack. That let me put my time into framing the problem, the architecture and the product decisions.
+I paired with Claude Code to write the code, because Python and Dash are not my usual stack. That let me put my time into framing the problem, the architecture and the product decisions.
 
 I steered every step. I decided what each screen answers, what to show and what to leave out, and how the code is layered. I rejected options that looked fine but didn't hold up. I checked every figure on screen against the raw data.
 
